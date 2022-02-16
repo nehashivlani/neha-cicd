@@ -4,7 +4,7 @@
          "Type": "AWS::S3::Bucket",
          "DeletionPolicy": "Retain",
          "Properties": {
-            "BucketName": "Deepesh-1111-bucketusingcf"
+            "BucketName": "Neha-1111-bucketusingcf"
            }
           }
          }
